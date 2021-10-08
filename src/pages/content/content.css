@@ -164,6 +164,9 @@
 }
 .news {
   margin-top: 77px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
   background-color: var(--background-color);
   height: 585px;
   width:100%;
@@ -181,4 +184,28 @@
 }
 .newsWrapper {
   max-width: 1400px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 36px;
+}
+.newsImageCard {
+  width: 257px;
+  height: 249px;
+  background-color: var(--card-color);
+}
+.newsCard p{
+  width: 257px;
+  height: 69px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--text-color);
+}
+.newsCard {
+  width: 293px;
+  height: 377px;
+  margin: 0 7.5px 0 7.5px;
 }
