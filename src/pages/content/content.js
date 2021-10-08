@@ -150,6 +150,53 @@ function Content() {
           </div>
         </div>
       </div>
+      <div className="tags">
+        <h1>#tag suites you</h1>
+        <div className="tagsWrapper">
+          <div className="tagsBox">
+            <h3>Model</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Travel</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Fashion</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Skipper</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Dance</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Flatlays</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Fitness</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Actor</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>DJ</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Content Creator</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Makeup artist</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Biker</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Yoga</h3>
+          </div>
+          <div className="tagsBox">
+            <h3>Car racing</h3>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

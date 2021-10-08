@@ -209,3 +209,54 @@
   height: 377px;
   margin: 0 7.5px 0 7.5px;
 }
+.tags {
+  margin-top: 53px;
+  height: 496px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--background-color);
+  
+}
+.tags h1 {
+text-align: center;
+font-family: Gotham;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 40px;
+margin-top: 0 !important;
+padding-top: 59px;
+margin-bottom:0px;
+color: var(--text-color);
+}
+.tagsWrapper {
+  margin-top: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1440px;
+}
+.tagsBox {
+  height: 65px;
+  width: 242px;
+  background-color: var(--card-color);
+  border-radius: 32.5px;
+  margin: 14px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tagsWrapper h3{
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+margin: 0px !important;
+color: var(--text-color);
+width: auto;
+height: 30px;
+}
