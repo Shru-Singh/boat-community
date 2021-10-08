@@ -1,0 +1,184 @@
+
+
+.contentHeader {
+  height: 507px;
+  background: var(--background-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contentHeader h1 {
+  font-family: Gotham;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 80px;
+  color: var(--text-color);
+}
+.searchWrapper {
+      display: flex;
+      justify-content: center;
+}
+.search {
+    display: flex;
+    justify-content: center;
+     border: 1px solid #374559;
+     border-radius: 35.5px;
+     width: fit-content;
+     z-index: 20;
+     margin-top: -30px;
+      background: var(--background-color);
+}
+.search input {
+  width: 891px;
+  height: 71px;
+  font-size: 24px;
+  border: transparent;
+  box-sizing: border-box;
+  border-radius: 35.5px;
+  background: var(--background-color);
+  outline: none;
+}
+.search button {
+  width: 162px;
+  height: 69px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #dedede;
+  border: transparent;
+  border-radius: 35.5px;
+  cursor: pointer;
+}
+.search h3 {
+  width: 99px;
+  height: 30px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  color: var(--text-color);
+}
+.trending {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.trendingWrapper {
+    width: 1440px;
+   
+}
+.trending h1 {
+  text-align: center;
+  margin-top: 95px;
+  font-family: Gotham;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: var(--text-color);
+}
+
+.topTrendingItems {
+  margin-top: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.topTrendingItems h3 {
+  margin: 0 33px 0 33px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: var(--text-color);
+  margin-bottom: 0px;
+}
+.trendingCards {
+  
+  margin-top: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.trendingCard {
+  background-color: var(--background-color);
+  width: 293px;
+  height: 377px;
+  margin: 24px 7.5px 0 7.5px;
+}
+.trendingPhotoCard {
+  width: 257px;
+  height: 249px;
+  background: var(--card-color);
+  margin: 14px 18px 0 18px;
+}
+.trendingCard p {
+  margin: 15px 18px 30px 18px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--text-color);
+}
+.videoSpace {
+  margin-top: 61px;
+  height: 394px;
+  width: 100%;
+  background-color: var(--background-color);
+}
+.videosdiv {
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.videosWrapper {
+  max-width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.videos {
+  width: 317px;
+  height: 249px;
+  background-color: var(--background-color);
+}
+.videosCard {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.videosCard p {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--text-color);
+  margin-bottom: 0px;
+}
+.news {
+  margin-top: 77px;
+  background-color: var(--background-color);
+  height: 585px;
+  width:100%;
+}
+.news h1 {
+  font-family: Gotham;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: uppercase;
+ padding-top: 66px;
+  text-align: center;
+  color: var(--text-color);
+}
+.newsWrapper {
+  max-width: 1400px;
+}

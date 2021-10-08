@@ -1,0 +1,8 @@
+@import url('http://fonts.cdnfonts.com/css/gotham');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+:root {
+    --background-color: #F5F5F5;
+    --text-color: #374559;
+    --card-color: #E5E5E5;
+}
