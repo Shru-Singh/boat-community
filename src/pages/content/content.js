@@ -197,6 +197,66 @@ function Content() {
           </div>
         </div>
       </div>
+      <div className="influencersCity">
+        <h1>TOP influencers IN THE CITY</h1>
+        <div className="influencersCityWrapper">
+          <div className="influencersCityBigImage"></div>
+          <div className="influencersCityCard">
+            <div className="influencersCityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="influencersCityCard">
+            <div className="influencersCityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="influencersChoice">
+        <h1>influencers by choice</h1>
+        <div className="choiceItems">
+          <h3>Dancer</h3>
+          <h3>Singer</h3>
+          <h3>Model</h3>
+          <h3>Photographer</h3>
+          <h3>Car racer</h3>
+        </div>
+        <div className="influencersChoiceWrapper">
+          <div className="influencersChoiceCard">
+            <div className="influencersChoiceImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="influencersChoiceCard">
+            <div className="influencersChoiceImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="influencersChoiceCard">
+            <div className="influencersChoiceImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="influencersChoiceCard">
+            <div className="influencersChoiceImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

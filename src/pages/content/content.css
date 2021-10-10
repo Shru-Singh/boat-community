@@ -260,3 +260,110 @@ color: var(--text-color);
 width: auto;
 height: 30px;
 }
+.influencersCity h1{
+  font-family: Gotham;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: uppercase;
+  margin-top: 96px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: var(--text-color);
+}
+.influencersCity {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.influencersCityWrapper {
+  max-width: 1440px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 42px;
+}
+.influencersCityBigImage {
+  width: 596px;
+  height: 480px;
+  background-color: var(--background-color);
+  margin:0 11.5px 0 11.5px;
+}
+.influencersCityCard {
+  margin: 0 11.5px 0 11.5px;
+  width: 317px;
+  height: 100%;
+}
+.influencersCityImageCard {
+  width: 317px;
+  height: 395px;
+  background-color: var(--background-color);
+}
+.influencersCityCard p {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--text-color);
+  margin-top: 16px;
+}
+.influencersChoice h1 {
+   font-family: Gotham;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 36px;
+   line-height: 40px;
+   text-transform: uppercase;
+   color: var(--text-color);
+   margin-top: 88px;
+   margin-bottom: 0px;
+   text-align: center;
+}
+.influencersChoice {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.choiceItems {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.choiceItems h3 {
+  margin: 0 33px 0 33px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: var(--text-color);
+}
+.influencersChoiceWrapper {
+  max-width: 1440px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 49px;
+}
+.influencersChoiceCard {
+  width: 300px;
+  height: 100%;
+  margin: 0 13px 0 13px;
+}
+.influencersChoiceImageCard {
+  width: 299px;
+  height: 395px;
+  background-color: var(--background-color);
+}
+.influencersChoiceCard p {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--text-color);
+  width: 265px;
+  margin-top: 16px;
+}
