@@ -257,6 +257,70 @@ function Content() {
           </div>
         </div>
       </div>
+      <div className="celebrityVideo">
+        <h1>Celebrity VIDEO</h1>
+      </div>
+      <div className="celebrityNews">
+        <h1>Celebrity in the newS</h1>
+        <div className="celebrityNewsWrapper">
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+          <div className="celebrityCard">
+            <div className="celebrityImageCard"></div>
+            <p>
+              Feeling fiesty like never before. Channel your inner Rebel with
+              the all new T-Rebel collection.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

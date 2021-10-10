@@ -366,4 +366,69 @@ height: 30px;
   color: var(--text-color);
   width: 265px;
   margin-top: 16px;
+  margin-bottom: 0px;
+}
+.celebrityVideo {
+  width: 100%;
+  height: 394px;
+  margin-top:61px;
+  background-color: var(--background-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.celebrityVideo h1 {
+  font-family: Gotham;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: var(--text-color);
+}
+.celebrityNews h1 {
+  font-family: Gotham;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: var(--text-color);
+  margin-top: 72px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.celebrityNews {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.celebrityNewsWrapper {
+  max-width: 1440px;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   margin-top: 19px;
+   margin-bottom: 267px;
+}
+.celebrityCard {
+  width: 300px;
+  height: 100%;
+  margin: 22px 13px;
+}
+.celebrityImageCard {
+  width: 299px;
+  height: 255px;
+  background-color: var(--background-color);
+}
+.celebrityCard p {
+  width: 265px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 16px;
+  margin-bottom: 0px;
+  color: var(--text-color);
 }
