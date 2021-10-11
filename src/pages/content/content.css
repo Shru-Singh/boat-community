@@ -502,10 +502,9 @@ height: 30px;
 .influencersChoice h1 {
     font-size: 24px;
     line-height: 27px;
-    margin-bottom: 20px;
 }
-.choiceItems {
-  margin: 2px 16px 2px 16px;
+.choiceItems h3{
+  margin: 10px 16px 10px 16px;
 }
 }
 @media only screen and (max-width: 480px) {
@@ -520,19 +519,21 @@ height: 30px;
     height: 44px;
   }
   .topTrendingItems h3 {
-    margin: 2px 16px 2px 16px;
+    margin: 10px 16px 10px 16px;
   }
   .trendingCard {
-    width: 193px;
+    width: 173px;
     height: 100%;
     margin-left: 2.5px;
     margin-right: 2.5px;
   }
   .trendingPhotoCard {
-    width: 169px;
+    width: 149px;
     height: 164px;
     margin: 9px 12px 0 12px;
   }
-  
+  .trendingCard p {
+    font-size: 12px;
+  }
 
 }
