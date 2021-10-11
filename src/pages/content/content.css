@@ -8,7 +8,7 @@
   align-items: center;
 }
 .contentHeader h1 {
-  font-family: Gotham;
+  font-family: Gotham !important;
   font-style: normal;
   font-weight: bold;
   font-size: 72px;
